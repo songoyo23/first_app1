@@ -19,10 +19,8 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+# Ruby on Rails Tutorial: first application
 
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Miguel Obando](http://michaelhartl.com/).
